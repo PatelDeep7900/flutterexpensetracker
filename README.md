@@ -1,4 +1,4 @@
-# udemyproject3
+# Flutter Expense Tracker
 
 A new Flutter project.
 
